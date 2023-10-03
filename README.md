@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KSRohit
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- i finished python program
+- 🌱 I’m currently learning C program
 
 
 <!---
